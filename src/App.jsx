@@ -1,5 +1,4 @@
-import Counter from "./components/counter";
-
+import Counter from "./components/Counter";
 const App = () => {
   return (
     <div className="container">
