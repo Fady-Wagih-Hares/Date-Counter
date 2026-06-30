@@ -34,6 +34,7 @@ const Counter = () => {
           value={step}
           onChange={(e) => setStep(+e.target.value)}
         />
+        Steps:
         {step}
       </span>
 
